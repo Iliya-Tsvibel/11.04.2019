@@ -1,0 +1,17 @@
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\HW_SQL_1-MANY.exe.config
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\HW_SQL_1-MANY.exe
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\HW_SQL_1-MANY.pdb
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\EntityFramework.dll
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\System.Data.SQLite.dll
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\EntityFramework.xml
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\System.Data.SQLite.xml
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\obj\Debug\HW_SQL_1-MANY.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\obj\Debug\HW_SQL_1-MANY.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\obj\Debug\HW_SQL_1-MANY.csproj.CopyComplete
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\obj\Debug\HW_SQL_1-MANY.exe
+C:\Users\itsvibel\source\repos\HW_SQL_1-MANY\HW_SQL_1-MANY\obj\Debug\HW_SQL_1-MANY.pdb
